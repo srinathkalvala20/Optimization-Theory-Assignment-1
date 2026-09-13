@@ -1,0 +1,42 @@
+============================================================
+       VOGEL'S APPROXIMATION METHOD (VAM)
+============================================================
+
+Cost Matrix:
+[[19. 30. 50. 10.]
+ [70. 30. 40. 60.]
+ [40.  8. 70. 20.]]
+
+Supply: [7, 9, 18]
+Demand: [5, 8, 7, 14]
+
+Allocate 8 units from S3 to D2
+
+Allocate 5 units from S1 to D1
+
+Allocate 10 units from S3 to D4
+
+Allocate 2 units from S1 to D4
+
+Allocate 2 units from S2 to D4
+
+Allocate 7 units from S2 to D3
+
+============================================================
+           INITIAL BASIC FEASIBLE SOLUTION
+============================================================
+
+Allocation Matrix:
+[[ 5.  0.  0.  2.]
+ [ 0.  0.  7.  2.]
+ [ 0.  8.  0. 10.]]
+
+Initial Transportation Cost = 779.0
+
+Supply remaining: [0, 0, 0]
+Demand remaining: [0, 0, 0, 0]
+
+VAM completed successfully.
+
+[Done] exited with code=0 in 0.521 seconds
+
